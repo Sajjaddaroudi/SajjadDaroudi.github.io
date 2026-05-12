@@ -8,6 +8,7 @@ Static GitHub Pages portfolio website for Sajjad Daroudi. The content is based o
 - `styles.css` controls layout, typography, responsive behavior, and visual design.
 - `script.js` handles the mobile menu and active navigation state.
 - `assets/` stores the profile photo, CV PDF, and project images.
+- `sitemap.xml` and `robots.txt` help search engines discover the GitHub Pages site.
 
 ## Editing the Website
 
@@ -18,6 +19,16 @@ Use placeholders where exact details are not yet known. Publications, awards, an
 ## Updating Contact Links
 
 Contact links are in the `#contact` section of `index.html`. Update the email, GitHub, Google Scholar, or LinkedIn URLs there when needed.
+
+## Updating SEO Metadata
+
+The page title, description, OpenGraph tags, Twitter preview tags, canonical URL, and schema.org structured data are in the `<head>` of `index.html`.
+
+If the GitHub Pages URL changes, update it in:
+
+- `index.html`
+- `sitemap.xml`
+- `robots.txt`
 
 ## Replacing the Profile Image
 
