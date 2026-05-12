@@ -374,10 +374,18 @@ h3 {
 
 .project-card img {
   width: 100%;
-  height: 180px;
+  height: 210px;
   object-fit: contain;
   background: #f8fafc;
   border-bottom: 1px solid var(--line);
+}
+
+.project-card img.project-plot {
+  padding: 16px;
+}
+
+.project-card img.project-plot-compact {
+  padding: 24px;
 }
 
 .project-card div {
