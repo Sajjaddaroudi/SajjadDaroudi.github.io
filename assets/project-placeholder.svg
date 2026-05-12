@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Project image placeholder</title>
+  <desc id="desc">A clean technical placeholder image for project cards.</desc>
+  <rect width="1200" height="675" fill="#f4f7fa"/>
+  <rect x="74" y="72" width="1052" height="531" rx="18" fill="#ffffff" stroke="#dbe3ec" stroke-width="4"/>
+  <path d="M150 505 355 312l153 134 180-240 362 299" fill="none" stroke="#126466" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="302" cy="218" r="54" fill="#b78b2e"/>
+  <g fill="#172033">
+    <rect x="164" y="112" width="220" height="20" rx="10"/>
+    <rect x="164" y="152" width="150" height="16" rx="8" opacity=".55"/>
+  </g>
+  <text x="600" y="582" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#5f6b7a">Replace with project image</text>
+</svg>
