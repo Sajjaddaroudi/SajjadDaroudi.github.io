@@ -15,6 +15,10 @@ Edit `index.html` to update biography text, education, research highlights, proj
 
 Use placeholders where exact details are not yet known. Publications, awards, and achievements should only be added when verified.
 
+## Updating Contact Links
+
+Contact links are in the `#contact` section of `index.html`. Update the email, GitHub, Google Scholar, or LinkedIn URLs there when needed.
+
 ## Replacing the Profile Image
 
 1. Add a professional headshot to the `assets/` folder.
